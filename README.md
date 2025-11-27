@@ -3,7 +3,7 @@
 ## **Introduction, Why DeFi Behaves Like a Physical System**
       
 Over the last several years, decentralized finance (DeFi) has grown from a small niche experiment to a multi-billion-dollar economic ecosystem. Yet despite this growth, the majority of analysis still treats DeFi as if it were simply “software with money built in.” In reality, DeFi behaves more like a **physical system** than a digital product. It is governed not by user interfaces, APIs, or DevOps practices, but by **mathematical constraints, conservation laws, threshold effects, dynamic equilibria, and nonlinear feedback loops**.
-        
+         
 The same way a bridge withstands weight until it reaches a critical load, a lending protocol remains healthy until price shocks push collateral below liquidation thresholds. The same way a thermodynamic system evolves under forces, an AMM continually adjusts its reserves to satisfy strict invariants that resemble energy conservation rules. And the same way a small shift in temperature can trigger a phase change, a slight downward move in asset prices can trigger cascading liquidations.
 
 To understand DeFi crashes, you cannot merely read Solidity code.
